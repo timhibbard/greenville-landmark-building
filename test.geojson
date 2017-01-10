@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "image": "https://greenvillelandmarkbuilding.files.wordpress.com/2017/01/bfe3152a-a32b-4c56-8b88-2afaf1e3108f.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.394821,
+          34.8628
+        ]
+      }
+    }
+  ]
+}
